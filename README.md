@@ -1,2 +1,3 @@
-# DataLogger_Turbina
-This file is a data logger program written in java.
+# SolarPanel_DataLogger
+
+This code is a Data Logger written in Java, which stores data from solar panels and show them in graphs.
